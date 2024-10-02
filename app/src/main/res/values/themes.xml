@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Quiz" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/one</item>
+        <item name="colorSecondary">@color/two</item>
+        <item name="colorTertiary">@color/three</item>
+    </style>
+
+    <style name="Theme.Quiz" parent="Base.Theme.Quiz"/>
+</resources>

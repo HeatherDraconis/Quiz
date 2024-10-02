@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item >Qu1) True or False: Harry Potter\'s owl is called Hedwig.</item>
+        <item >Qu2) True or False: The Deathly Hallows were given to the brothers by Death.</item>
+        <item >Qu3) True or False: Ronald Weasley has 6 older brothers.</item>
+        <item >Qu4) True or False: Harry Potter lives at Number 4, Privet Drive.</item>
+        <item >Qu5) True or False: Victor Krum is a famous Gobstones Player.</item>
+        <item >Qu6) True or False: Remus Lupin is a Vampire.</item>
+        <item >Qu7) True or False: Harry Potter\'s scar is in the shape of a lightning bolt.</item>
+        <item >Qu8) True or False: Stan Shunpike owns the Leaky Cauldron.</item>
+        <item >Qu9) True or False: Fleur Delacour\'s wand core is one of her own hairs.</item>
+        <item >Qu10) True or False: Severus Snape\'s patronus is a doe.</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item >TRUE</item>
+        <item >TRUE</item>
+        <item >FALSE</item>
+        <item >TRUE</item>
+        <item >FALSE</item>
+        <item >FALSE</item>
+        <item >TRUE</item>
+        <item >FALSE</item>
+        <item >FALSE</item>
+        <item >TRUE</item>
+    </string-array>
+</resources>

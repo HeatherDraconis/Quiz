@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="start">Start</string>
+    <string name="submit">Submit</string>
+    <string name="zero_score">0/10</string>
+    <string name="congratulations_message">Well Done!\nYou Have Completed the Quiz!</string>
+
+    <string name="answer_true">TRUE</string>
+    <string name="answer_false">FALSE</string>
+    <string name="question_1">Qu1) True or False: Harry Potter\'s owl is called Hedwig.</string>
+</resources>
